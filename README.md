@@ -78,12 +78,13 @@ This shows how well the model differentiates between the 3 classes:
 
 ### 🧾 Classification Report
 
-Streamlit interface of the prediction output
+Streamlit interface of the prediction output:
 
-![Classification Report] (image\streamlit interface.png)(image\prediction_hate.png)(image\prdiction_neutral.png)
+![Streamlit Interface](image/streamlit%20interface.png)
 
+![Prediction - Hate](image/prediction_hate.png)
 
-
+![Prediction - Neutral](image/prdiction_neutral.png)
 ---
 
 ## 🌐 Streamlit Web Interface
